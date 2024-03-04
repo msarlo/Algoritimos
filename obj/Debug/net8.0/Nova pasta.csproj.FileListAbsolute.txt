@@ -12,3 +12,18 @@ D:\Área de Trabalho\Nova pasta\obj\Debug\net8.0\refint\Nova pasta.dll
 D:\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.pdb
 D:\Área de Trabalho\Nova pasta\obj\Debug\net8.0\Nova pasta.genruntimeconfig.cache
 D:\Área de Trabalho\Nova pasta\obj\Debug\net8.0\ref\Nova pasta.dll
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\bin\Debug\net8.0\Nova pasta.exe
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\bin\Debug\net8.0\Nova pasta.deps.json
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\bin\Debug\net8.0\Nova pasta.runtimeconfig.json
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\bin\Debug\net8.0\Nova pasta.dll
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\bin\Debug\net8.0\Nova pasta.pdb
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\Nova pasta.AssemblyInfoInputs.cache
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\Nova pasta.AssemblyInfo.cs
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\Nova pasta.csproj.CoreCompileInputs.cache
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\Nova pasta.sourcelink.json
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\Nova pasta.dll
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\refint\Nova pasta.dll
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\Nova pasta.pdb
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\Nova pasta.genruntimeconfig.cache
+D:\Faculdade\1° Período\Algorítimos\1° Projeitnho\obj\Debug\net8.0\ref\Nova pasta.dll
