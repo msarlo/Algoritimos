@@ -1,0 +1,14 @@
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.exe
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.deps.json
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.runtimeconfig.json
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.dll
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\bin\Debug\net8.0\Calculadora de IMC.pdb
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.AssemblyInfoInputs.cache
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.AssemblyInfo.cs
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.csproj.CoreCompileInputs.cache
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.dll
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\obj\Debug\net8.0\refint\Calculadora de IMC.dll
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.pdb
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\obj\Debug\net8.0\Calculadora de IMC.genruntimeconfig.cache
+D:\Faculdade\1° Período\Algorítimos\Calculadora de IMC\obj\Debug\net8.0\ref\Calculadora de IMC.dll
